@@ -1,1 +1,1 @@
-const divide = () => {2000/100}
+const divide = () => 2000/100
